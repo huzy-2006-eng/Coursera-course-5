@@ -38,7 +38,8 @@ Another way to present this idea:
 
 *Asset inventory* - A catalog of assets that need to be protected.
 
-**Asset classification **- The practice of labeling assets based on sensitivity and importance to an organization.
+# **Asset classification **- 
+The practice of labeling assets based on sensitivity and importance to an organization.
 Levels of asset classification:-
 public               |
 internal-only        ||
@@ -63,7 +64,7 @@ Examples:
 {Every asset should be classified and accounted for.}
 
 
-**# Challenges of classfying information:**
+**# # Challenges of classfying information:**
 
 1. For example, a business might issue a laptop to one of its employees to allow them to work remotely. You might assume the business is the asset owner in this situation. But, what if the employee uses the laptop for personal matters, like storing their photos?
 [This challenge is called Ownership]
