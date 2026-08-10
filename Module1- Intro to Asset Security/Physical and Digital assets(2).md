@@ -1,6 +1,6 @@
-DATA - Information that is translated, processed, or sorted by a computer.
+## DATA - Information that is translated, processed, or sorted by a computer.
 
-STATES OF DATA:
+# STATES OF DATA:
 1. Data in use - Data being accessed by one or more users.
 {when you are in a park and u stop and check your email.}
 
@@ -12,11 +12,11 @@ STATES OF DATA:
 
 Information Security(InfoSec) - The practice of keeping data in all states away from unauthorized users.
 
-SOARING INTO THE CLOUD:
+# SOARING INTO THE CLOUD:
 Starting an online business used to be a complicated and costly process because companies had to build maintain their own internal solutions.
 Now,it's much easier to participate in the cloud.
 
-CLOUD BASED SERVICES:
+# CLOUD BASED SERVICES:
 
 1. ## Software as a Service(SaaS) - 
 SaaS refers to front-end applications that users access via a web browser. The service providers host, manage, and maintain all of the back-end systems for those applications. Common examples of SaaS services include applications like 
@@ -33,7 +33,7 @@ Examples -
 Google Cloud Platform.
 Microsoft Azure.
 
-CLOUD SECURITY:
+# CLOUD SECURITY:
 1. Cloud security is a growing subfield of cybersecurity that specifically focuses on protection of data, applications, and infrastructure in the cloud.
 
 2. For example, a PaaS client pays to access the resources they need to build their applications. 
@@ -46,7 +46,7 @@ It includes:
  Resource configuration.
  Data handling.
 
-CLOUD SECURITY CHALLENGES:
+# CLOUD SECURITY CHALLENGES:
 
 ## Misconfiguration
 is one the biggest concerns. Customers of cloud-based services are responsible for configuring their own security environment.
