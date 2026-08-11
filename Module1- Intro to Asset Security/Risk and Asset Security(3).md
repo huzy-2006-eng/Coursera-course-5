@@ -53,16 +53,16 @@ Compliance is a way of measuring how well an organization is protecting their as
 {NOTE: Regulations are rules that MUST be followed, while frameworks are resources u can CHOOSE to use.}
 
 U.S Cybersecurity and Infrastructure Security Agency(CISA) provides detailed guidance that any organization can use to implement CSF.
-1. ## Create a current profile 
+1. ### Create a current profile 
   of the security operations and outline the specific needs of ur business.
 
-2. ## Perform a risk assessment
+2. ### Perform a risk assessment
   to identify which of ur current operations are meeting business and regulatory standards.
 
-3. ## Analyze and prioritize exisitng gaps 
+3. ### Analyze and prioritize exisitng gaps 
   in security operations that place the businesses at risk.
 
-4. ## Implement a plan of action 
+4. ### Implement a plan of action 
    to achieve ur organization's goals and objectives.
 
 
